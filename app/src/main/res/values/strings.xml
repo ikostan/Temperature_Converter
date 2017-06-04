@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Temperature Conversion</string>
+    <string name="please_enter_temperature">Please enter temperature</string>
+    <string name="calculate">Calculate</string>
+    <string name="convert_c_to_f">Convert C to F</string>
+    <string name="convert_f_to_c">Convert F to C</string>
+</resources>
