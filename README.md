@@ -14,4 +14,4 @@
 ### Screenshot #4:
 ![GUI](https://github.com/ikostan/Temperature_Converter/blob/master/files/Capture_4.JPG?raw=true "GUI screenshot")
 
-### Source: https://www.lynda.com/Android-tutorials/Learning-Android-App-Development-Design-User-Interface/518054-2.html
+### Source: https://github.com/ikostan/Temperature_Converter/blob/master/files/W4_CSIS3175.docx
